@@ -21,7 +21,7 @@ Within each daily folder, you'll find:
 
 - **Day 1:**
   - [SUPERVISED LEARNING]
-  - [Notes](SUPERVISED LEARNING/SUPERVISED LEARNING_D1.pdf)
+  - [Notes](SUPERVISED LEARNING_D1.pdf)
     and
   - [UNSUPERVISED LEARNING]
   - [Notes](Day1/Notes.md)
