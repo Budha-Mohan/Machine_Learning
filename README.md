@@ -21,7 +21,7 @@ Within each daily folder, you'll find:
 
 - **Day 1:**
   - [SUPERVISED LEARNING]
-  - [Notes](SUPERVISED LEARNING/SUPERVISED LEARNING_D1.pdf)
+  - [Notes]([SUPERVISED LEARNING/SUPERVISED LEARNING_D1.pdf](https://github.com/Budha-Mohan/Machine_Learning/tree/main/SUPERVISED%20LEARNING))
     and
   - [UNSUPERVISED LEARNING]
   - [Notes](Day1/Notes.md)
