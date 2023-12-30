@@ -1,6 +1,3 @@
-# Machine_Learning
-Certainly! Here's a template for a README file on GitHub documenting your daily learning journey in machine learning:
-
 # Machine Learning Learning Journey
 
 Welcome to my Machine Learning Learning Journey! 🚀 In this repository, I am documenting my daily progress in machine learning.
