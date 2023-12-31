@@ -24,8 +24,8 @@ Within each daily folder, you'll find:
   - [Notes]([UNSUPERVISED LEARNING/UNSUPERVISED LEARNING_D1.pdf](https://github.com/Budha-Mohan/Machine_Learning/tree/main/UNSUPERVISED%20LEARNING))
 
 
-- **Day 2:** [Subtopic 2]
-  - [Notes](Day2/Notes.md)
+- **Day 2:** [SIMPLE_LINEAR_REGRESSION]
+  - [Notes]([https://github.com/Budha-Mohan/Machine_Learning/blob/main/SIMPLE_LINEAR_REGRESSION/SIMPLE%20LINEAR%20REGRESSION_D2.pdf])
   - [Code](Day2/Code/)
   - [Resources](Day2/Resources.md)
 
