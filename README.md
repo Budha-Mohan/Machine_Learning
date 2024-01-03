@@ -31,8 +31,8 @@ Within each daily folder, you'll find:
 
 
 - **Day 3:** [Multiple Linear Regression]
-  - [Notes](Multiple Linear Regression/Multiple Linear Regression.pdf)
-  - [Code](Multiple Linear Regression)
+  - [Notes](https://github.com/Budha-Mohan/Machine_Learning/blob/main/Multiple%20Linear%20Regression/Multiple%20Linear%20Regression.pdf)
+  - [Code]([Multiple Linear Regression](https://github.com/Budha-Mohan/Machine_Learning/tree/main/Multiple%20Linear%20Regression))
   - [Resources]([https://www.youtube.com/watch?v=dXHIDLPKdmA&t=195s](https://www.youtube.com/watch?v=VmZWXzxmNrE))
 
 ## Future Plans
