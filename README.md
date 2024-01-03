@@ -27,7 +27,7 @@ Within each daily folder, you'll find:
 - **Day 2:** [SIMPLE_LINEAR_REGRESSION]
   - [Notes]([SIMPLE_LINEAR_REGRESSION/SIMPLE LINEAR REGRESSION_D2.pdf](https://github.com/Budha-Mohan/Machine_Learning/blob/main/SIMPLE_LINEAR_REGRESSION/SIMPLE%20LINEAR%20REGRESSION_D2.pdf))
   - [Code](SIMPLE_LINEAR_REGRESSION/YT_simple_linear_R.ipynb)
-  - [Resources]([Day2/Resources.md](https://www.youtube.com/watch?v=dXHIDLPKdmA&t=195s))
+  - [Resources](https://www.youtube.com/watch?v=dXHIDLPKdmA&t=195s)
 
 
 ## Future Plans
