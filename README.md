@@ -30,6 +30,11 @@ Within each daily folder, you'll find:
   - [Resources](https://www.youtube.com/watch?v=dXHIDLPKdmA&t=195s)
 
 
+- **Day 3:** [Multiple Linear Regression]
+  - [Notes](Multiple Linear Regression/Multiple Linear Regression.pdf)
+  - [Code](Multiple Linear Regression)
+  - [Resources]([https://www.youtube.com/watch?v=dXHIDLPKdmA&t=195s](https://www.youtube.com/watch?v=VmZWXzxmNrE))
+
 ## Future Plans
 
 As I progress through this learning journey, I plan to explore a wide range of machine learning subtopics, including but not limited to:
